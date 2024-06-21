@@ -1,5 +1,5 @@
 C++ Hangman Game
-This is a simple C++ implementation of the classic word guessing game Hangman. The user has 6 lives to guess a secret word chosen by the program.
+This is a simple C++ implementation of the classic word guessing game Hangman. The user has 7 lives to guess a secret word chosen by the program.
 
 Features
 User guesses letters one at a time.
